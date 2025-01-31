@@ -1,7 +1,7 @@
 ### Olá sou o André Vitor 👋
 
 - 🔭 Atualmente em busca de desafios
-- 🌱 Estudando Engenharia da Computação
+- 🌱 Formado em Engenharia da Computação
 
 <div align="center">
   <a href="https://github.com/andrevitorsilva">
